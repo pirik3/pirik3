@@ -12,10 +12,10 @@
 - -----> by mücap ofluoğlu
 - 
 - 👋 Hi, I’m @pirik3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in reversing and memory
+- 🌱 I’m currently learning assembly
+- 💞️ I’m looking to collaborate on nothing atm.
+- 📫 How to reach me ... -> through here?
 
 <!---
 pirik3/pirik3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
