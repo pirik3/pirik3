@@ -9,7 +9,7 @@
 - rengin ne olursa olsun
 - siyah, beyaz, sarı...
 - 
-- -----> by mücap ofluoğlu
+- -----> mücap ofluoğlu
 - 
 - 👋 Hi, I’m @pirik3
 - 👀 I’m interested in reversing and memory
